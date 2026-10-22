@@ -1,0 +1,1 @@
+{"name":"CardVault - Digital Card Collection","short_name":"CardVault","description":"Your offline digital card collection","start_url":"./","scope":"./","display":"standalone","background_color":"#090d18","theme_color":"#0b1020","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
